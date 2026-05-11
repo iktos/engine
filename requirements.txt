@@ -1,0 +1,9 @@
+requests
+pandas
+rdkit
+posebusters
+jupyter
+ipykernel
+biopython
+scipy
+tqdm
