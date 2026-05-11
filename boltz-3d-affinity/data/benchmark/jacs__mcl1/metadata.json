@@ -1,0 +1,424 @@
+{
+  "openfe_subset": "jacs",
+  "openfe_system": "mcl1",
+  "entry": "jacs__mcl1",
+  "boltz2_4target": false,
+  "n_ligands": 69,
+  "n_with_exp_dG": 69,
+  "ligands": {
+    "23": {
+      "sdf": "ligands/23.sdf",
+      "exp_dG_kcal_mol": -8.829999924,
+      "fepplus_pred_dG_kcal_mol": -7.53000021,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "23_flip": {
+      "sdf": "ligands/23_flip.sdf",
+      "exp_dG_kcal_mol": -8.829999924,
+      "fepplus_pred_dG_kcal_mol": -7.53000021,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "26": {
+      "sdf": "ligands/26.sdf",
+      "exp_dG_kcal_mol": -8.239999771,
+      "fepplus_pred_dG_kcal_mol": -8.25,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "26_flip": {
+      "sdf": "ligands/26_flip.sdf",
+      "exp_dG_kcal_mol": -8.239999771,
+      "fepplus_pred_dG_kcal_mol": -8.25,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "27": {
+      "sdf": "ligands/27.sdf",
+      "exp_dG_kcal_mol": -6.119999886,
+      "fepplus_pred_dG_kcal_mol": -6.449999809,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "28": {
+      "sdf": "ligands/28.sdf",
+      "exp_dG_kcal_mol": -6.619999886,
+      "fepplus_pred_dG_kcal_mol": -6.059999943,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "28_flip": {
+      "sdf": "ligands/28_flip.sdf",
+      "exp_dG_kcal_mol": -6.619999886,
+      "fepplus_pred_dG_kcal_mol": -6.059999943,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "29": {
+      "sdf": "ligands/29.sdf",
+      "exp_dG_kcal_mol": -6.940000057,
+      "fepplus_pred_dG_kcal_mol": -6.480000019,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "29_flip": {
+      "sdf": "ligands/29_flip.sdf",
+      "exp_dG_kcal_mol": -6.940000057,
+      "fepplus_pred_dG_kcal_mol": -6.480000019,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "30": {
+      "sdf": "ligands/30.sdf",
+      "exp_dG_kcal_mol": -7.849999905,
+      "fepplus_pred_dG_kcal_mol": -6.980000019,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "30_flip": {
+      "sdf": "ligands/30_flip.sdf",
+      "exp_dG_kcal_mol": -7.849999905,
+      "fepplus_pred_dG_kcal_mol": -6.980000019,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "31": {
+      "sdf": "ligands/31.sdf",
+      "exp_dG_kcal_mol": -7.920000076,
+      "fepplus_pred_dG_kcal_mol": -7.940000057,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "31_flip": {
+      "sdf": "ligands/31_flip.sdf",
+      "exp_dG_kcal_mol": -7.920000076,
+      "fepplus_pred_dG_kcal_mol": -7.940000057,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "32": {
+      "sdf": "ligands/32.sdf",
+      "exp_dG_kcal_mol": -6.579999924,
+      "fepplus_pred_dG_kcal_mol": -6.590000153,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "33": {
+      "sdf": "ligands/33.sdf",
+      "exp_dG_kcal_mol": -6.880000114,
+      "fepplus_pred_dG_kcal_mol": -7.730000019,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "34": {
+      "sdf": "ligands/34.sdf",
+      "exp_dG_kcal_mol": -6.869999886,
+      "fepplus_pred_dG_kcal_mol": -7.329999924,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "35": {
+      "sdf": "ligands/35.sdf",
+      "exp_dG_kcal_mol": -8.81000042,
+      "fepplus_pred_dG_kcal_mol": -8.010000229,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "35_flip": {
+      "sdf": "ligands/35_flip.sdf",
+      "exp_dG_kcal_mol": -8.81000042,
+      "fepplus_pred_dG_kcal_mol": -8.010000229,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "36": {
+      "sdf": "ligands/36.sdf",
+      "exp_dG_kcal_mol": -8.180000305,
+      "fepplus_pred_dG_kcal_mol": -8.170000076,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "36_flip": {
+      "sdf": "ligands/36_flip.sdf",
+      "exp_dG_kcal_mol": -8.180000305,
+      "fepplus_pred_dG_kcal_mol": -8.170000076,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "37": {
+      "sdf": "ligands/37.sdf",
+      "exp_dG_kcal_mol": -8.949999809,
+      "fepplus_pred_dG_kcal_mol": -8.729999542,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "38": {
+      "sdf": "ligands/38.sdf",
+      "exp_dG_kcal_mol": -7.019999981,
+      "fepplus_pred_dG_kcal_mol": -9.06000042,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "38_flip": {
+      "sdf": "ligands/38_flip.sdf",
+      "exp_dG_kcal_mol": -7.019999981,
+      "fepplus_pred_dG_kcal_mol": -9.06000042,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "39": {
+      "sdf": "ligands/39.sdf",
+      "exp_dG_kcal_mol": -7.03000021,
+      "fepplus_pred_dG_kcal_mol": -8.0,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "40": {
+      "sdf": "ligands/40.sdf",
+      "exp_dG_kcal_mol": -7.25,
+      "fepplus_pred_dG_kcal_mol": -8.210000038,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "40_flip": {
+      "sdf": "ligands/40_flip.sdf",
+      "exp_dG_kcal_mol": -7.25,
+      "fepplus_pred_dG_kcal_mol": -8.210000038,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "41": {
+      "sdf": "ligands/41.sdf",
+      "exp_dG_kcal_mol": -7.130000114,
+      "fepplus_pred_dG_kcal_mol": -8.180000305,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "41_flip": {
+      "sdf": "ligands/41_flip.sdf",
+      "exp_dG_kcal_mol": -7.130000114,
+      "fepplus_pred_dG_kcal_mol": -8.180000305,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "42": {
+      "sdf": "ligands/42.sdf",
+      "exp_dG_kcal_mol": -8.899999619,
+      "fepplus_pred_dG_kcal_mol": -7.630000114,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "42_flip": {
+      "sdf": "ligands/42_flip.sdf",
+      "exp_dG_kcal_mol": -8.899999619,
+      "fepplus_pred_dG_kcal_mol": -7.630000114,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "43": {
+      "sdf": "ligands/43.sdf",
+      "exp_dG_kcal_mol": -7.03000021,
+      "fepplus_pred_dG_kcal_mol": -7.739999771,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "43_flip": {
+      "sdf": "ligands/43_flip.sdf",
+      "exp_dG_kcal_mol": -7.03000021,
+      "fepplus_pred_dG_kcal_mol": -7.739999771,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "44": {
+      "sdf": "ligands/44.sdf",
+      "exp_dG_kcal_mol": -8.670000076,
+      "fepplus_pred_dG_kcal_mol": -8.420000076,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "44_flip": {
+      "sdf": "ligands/44_flip.sdf",
+      "exp_dG_kcal_mol": -8.670000076,
+      "fepplus_pred_dG_kcal_mol": -8.420000076,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "45": {
+      "sdf": "ligands/45.sdf",
+      "exp_dG_kcal_mol": -8.949999809,
+      "fepplus_pred_dG_kcal_mol": -7.559999943,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "45_flip": {
+      "sdf": "ligands/45_flip.sdf",
+      "exp_dG_kcal_mol": -8.949999809,
+      "fepplus_pred_dG_kcal_mol": -7.559999943,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "46": {
+      "sdf": "ligands/46.sdf",
+      "exp_dG_kcal_mol": -7.599999905,
+      "fepplus_pred_dG_kcal_mol": -7.989999771,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "46_flip": {
+      "sdf": "ligands/46_flip.sdf",
+      "exp_dG_kcal_mol": -7.599999905,
+      "fepplus_pred_dG_kcal_mol": -7.989999771,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "47": {
+      "sdf": "ligands/47.sdf",
+      "exp_dG_kcal_mol": -5.78000021,
+      "fepplus_pred_dG_kcal_mol": -6.289999962,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "47_flip": {
+      "sdf": "ligands/47_flip.sdf",
+      "exp_dG_kcal_mol": -5.78000021,
+      "fepplus_pred_dG_kcal_mol": -6.289999962,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "48": {
+      "sdf": "ligands/48.sdf",
+      "exp_dG_kcal_mol": -6.659999847,
+      "fepplus_pred_dG_kcal_mol": -4.630000114,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "48_flip": {
+      "sdf": "ligands/48_flip.sdf",
+      "exp_dG_kcal_mol": -6.659999847,
+      "fepplus_pred_dG_kcal_mol": -4.630000114,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "49": {
+      "sdf": "ligands/49.sdf",
+      "exp_dG_kcal_mol": -8.359999657,
+      "fepplus_pred_dG_kcal_mol": -8.729999542,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "49_flip": {
+      "sdf": "ligands/49_flip.sdf",
+      "exp_dG_kcal_mol": -8.359999657,
+      "fepplus_pred_dG_kcal_mol": -8.729999542,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "50": {
+      "sdf": "ligands/50.sdf",
+      "exp_dG_kcal_mol": -9.329999924,
+      "fepplus_pred_dG_kcal_mol": -8.75,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "51": {
+      "sdf": "ligands/51.sdf",
+      "exp_dG_kcal_mol": -8.449999809,
+      "fepplus_pred_dG_kcal_mol": -7.150000095,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "51_flip": {
+      "sdf": "ligands/51_flip.sdf",
+      "exp_dG_kcal_mol": -8.449999809,
+      "fepplus_pred_dG_kcal_mol": -7.150000095,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "52": {
+      "sdf": "ligands/52.sdf",
+      "exp_dG_kcal_mol": -9.229999542,
+      "fepplus_pred_dG_kcal_mol": -9.720000267,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "52_flip": {
+      "sdf": "ligands/52_flip.sdf",
+      "exp_dG_kcal_mol": -9.229999542,
+      "fepplus_pred_dG_kcal_mol": -9.720000267,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "53": {
+      "sdf": "ligands/53.sdf",
+      "exp_dG_kcal_mol": -9.960000038,
+      "fepplus_pred_dG_kcal_mol": -10.09000015,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "54": {
+      "sdf": "ligands/54.sdf",
+      "exp_dG_kcal_mol": -9.779999733,
+      "fepplus_pred_dG_kcal_mol": -9.050000191,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "54_flip": {
+      "sdf": "ligands/54_flip.sdf",
+      "exp_dG_kcal_mol": -9.779999733,
+      "fepplus_pred_dG_kcal_mol": -9.050000191,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "56": {
+      "sdf": "ligands/56.sdf",
+      "exp_dG_kcal_mol": -9.260000229,
+      "fepplus_pred_dG_kcal_mol": -9.050000191,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "57": {
+      "sdf": "ligands/57.sdf",
+      "exp_dG_kcal_mol": -9.039999962,
+      "fepplus_pred_dG_kcal_mol": -7.840000153,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "57_flip": {
+      "sdf": "ligands/57_flip.sdf",
+      "exp_dG_kcal_mol": -9.039999962,
+      "fepplus_pred_dG_kcal_mol": -7.840000153,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "58": {
+      "sdf": "ligands/58.sdf",
+      "exp_dG_kcal_mol": -9.409999847,
+      "fepplus_pred_dG_kcal_mol": -10.36999989,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "60": {
+      "sdf": "ligands/60.sdf",
+      "exp_dG_kcal_mol": -8.920000076,
+      "fepplus_pred_dG_kcal_mol": -8.779999733,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "61": {
+      "sdf": "ligands/61.sdf",
+      "exp_dG_kcal_mol": -8.079999924,
+      "fepplus_pred_dG_kcal_mol": -8.319999695,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "62": {
+      "sdf": "ligands/62.sdf",
+      "exp_dG_kcal_mol": -7.960000038,
+      "fepplus_pred_dG_kcal_mol": -8.069999695,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "62_flip": {
+      "sdf": "ligands/62_flip.sdf",
+      "exp_dG_kcal_mol": -7.960000038,
+      "fepplus_pred_dG_kcal_mol": -8.069999695,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "63": {
+      "sdf": "ligands/63.sdf",
+      "exp_dG_kcal_mol": -9.06000042,
+      "fepplus_pred_dG_kcal_mol": -9.829999924,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "64": {
+      "sdf": "ligands/64.sdf",
+      "exp_dG_kcal_mol": -9.5,
+      "fepplus_pred_dG_kcal_mol": -8.970000267,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "64_flip": {
+      "sdf": "ligands/64_flip.sdf",
+      "exp_dG_kcal_mol": -9.5,
+      "fepplus_pred_dG_kcal_mol": -8.970000267,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "65": {
+      "sdf": "ligands/65.sdf",
+      "exp_dG_kcal_mol": -8.409999847,
+      "fepplus_pred_dG_kcal_mol": -9.630000114,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "66": {
+      "sdf": "ligands/66.sdf",
+      "exp_dG_kcal_mol": -8.430000305,
+      "fepplus_pred_dG_kcal_mol": -8.670000076,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "66_flip": {
+      "sdf": "ligands/66_flip.sdf",
+      "exp_dG_kcal_mol": -8.430000305,
+      "fepplus_pred_dG_kcal_mol": -8.670000076,
+      "fepplus_pred_err_kcal_mol": 0.0700000003
+    },
+    "67": {
+      "sdf": "ligands/67.sdf",
+      "exp_dG_kcal_mol": -7.579999924,
+      "fepplus_pred_dG_kcal_mol": -9.220000267,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "68": {
+      "sdf": "ligands/68.sdf",
+      "exp_dG_kcal_mol": -7.690000057,
+      "fepplus_pred_dG_kcal_mol": -7.159999847,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    },
+    "68_flip": {
+      "sdf": "ligands/68_flip.sdf",
+      "exp_dG_kcal_mol": -7.690000057,
+      "fepplus_pred_dG_kcal_mol": -7.159999847,
+      "fepplus_pred_err_kcal_mol": 0.05999999866
+    }
+  }
+}

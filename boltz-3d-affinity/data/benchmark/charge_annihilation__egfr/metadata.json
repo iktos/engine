@@ -1,0 +1,70 @@
+{
+  "openfe_subset": "charge_annihilation",
+  "openfe_system": "egfr",
+  "entry": "charge_annihilation__egfr",
+  "boltz2_4target": false,
+  "n_ligands": 10,
+  "n_with_exp_dG": 10,
+  "ligands": {
+    "21": {
+      "sdf": "ligands/21.sdf",
+      "exp_dG_kcal_mol": -9.88,
+      "fepplus_pred_dG_kcal_mol": -10.79,
+      "fepplus_pred_err_kcal_mol": 0.18
+    },
+    "27chargR": {
+      "sdf": "ligands/27chargR.sdf",
+      "exp_dG_kcal_mol": -9.94,
+      "fepplus_pred_dG_kcal_mol": -10.67,
+      "fepplus_pred_err_kcal_mol": 0.21
+    },
+    "27chargS": {
+      "sdf": "ligands/27chargS.sdf",
+      "exp_dG_kcal_mol": -9.94,
+      "fepplus_pred_dG_kcal_mol": -10.67,
+      "fepplus_pred_err_kcal_mol": 0.21
+    },
+    "27neu": {
+      "sdf": "ligands/27neu.sdf",
+      "exp_dG_kcal_mol": -9.94,
+      "fepplus_pred_dG_kcal_mol": -10.67,
+      "fepplus_pred_err_kcal_mol": 0.21
+    },
+    "28charg": {
+      "sdf": "ligands/28charg.sdf",
+      "exp_dG_kcal_mol": -10.7,
+      "fepplus_pred_dG_kcal_mol": -10.73,
+      "fepplus_pred_err_kcal_mol": 0.2
+    },
+    "28neu": {
+      "sdf": "ligands/28neu.sdf",
+      "exp_dG_kcal_mol": -10.7,
+      "fepplus_pred_dG_kcal_mol": -10.73,
+      "fepplus_pred_err_kcal_mol": 0.2
+    },
+    "29charg": {
+      "sdf": "ligands/29charg.sdf",
+      "exp_dG_kcal_mol": -10.46,
+      "fepplus_pred_dG_kcal_mol": -9.84,
+      "fepplus_pred_err_kcal_mol": 0.21
+    },
+    "29neu": {
+      "sdf": "ligands/29neu.sdf",
+      "exp_dG_kcal_mol": -10.46,
+      "fepplus_pred_dG_kcal_mol": -9.84,
+      "fepplus_pred_err_kcal_mol": 0.21
+    },
+    "30charg": {
+      "sdf": "ligands/30charg.sdf",
+      "exp_dG_kcal_mol": -11.25,
+      "fepplus_pred_dG_kcal_mol": -10.2,
+      "fepplus_pred_err_kcal_mol": 0.2
+    },
+    "30neu": {
+      "sdf": "ligands/30neu.sdf",
+      "exp_dG_kcal_mol": -11.25,
+      "fepplus_pred_dG_kcal_mol": -10.2,
+      "fepplus_pred_err_kcal_mol": 0.2
+    }
+  }
+}

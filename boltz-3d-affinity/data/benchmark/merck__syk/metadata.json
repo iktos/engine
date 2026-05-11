@@ -1,0 +1,324 @@
+{
+  "openfe_subset": "merck",
+  "openfe_system": "syk",
+  "entry": "merck__syk",
+  "boltz2_4target": false,
+  "n_ligands": 53,
+  "n_with_exp_dG": 51,
+  "ligands": {
+    "CHEMBL3259820": {
+      "sdf": "ligands/CHEMBL3259820.sdf",
+      "exp_dG_kcal_mol": -10.575678825378418,
+      "fepplus_pred_dG_kcal_mol": -10.0,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3264995": {
+      "sdf": "ligands/CHEMBL3264995.sdf",
+      "exp_dG_kcal_mol": -12.381524085998535,
+      "fepplus_pred_dG_kcal_mol": -12.020000457763672,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3264996": {
+      "sdf": "ligands/CHEMBL3264996.sdf",
+      "exp_dG_kcal_mol": -10.665895462036133,
+      "fepplus_pred_dG_kcal_mol": -11.529999732971191,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3264997": {
+      "sdf": "ligands/CHEMBL3264997.sdf",
+      "exp_dG_kcal_mol": -10.983019828796387,
+      "fepplus_pred_dG_kcal_mol": -11.5600004196167,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CHEMBL3265001": {
+      "sdf": "ligands/CHEMBL3265001.sdf",
+      "exp_dG_kcal_mol": -12.03799057006836,
+      "fepplus_pred_dG_kcal_mol": -12.15999984741211,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CHEMBL3265002": {
+      "sdf": "ligands/CHEMBL3265002.sdf",
+      "exp_dG_kcal_mol": -10.617273330688477,
+      "fepplus_pred_dG_kcal_mol": -12.270000457763672,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265003_tautomer_1": {
+      "sdf": "ligands/CHEMBL3265003_tautomer_1.sdf",
+      "exp_dG_kcal_mol": -10.820952415466309,
+      "fepplus_pred_dG_kcal_mol": -12.039999961853027,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265003_tautomer_2": {
+      "sdf": "ligands/CHEMBL3265003_tautomer_2.sdf",
+      "exp_dG_kcal_mol": -10.820952415466309,
+      "fepplus_pred_dG_kcal_mol": -12.029999732971191,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CHEMBL3265005": {
+      "sdf": "ligands/CHEMBL3265005.sdf",
+      "exp_dG_kcal_mol": -10.323298454284668,
+      "fepplus_pred_dG_kcal_mol": -10.1899995803833,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265006": {
+      "sdf": "ligands/CHEMBL3265006.sdf",
+      "exp_dG_kcal_mol": -9.95804214477539,
+      "fepplus_pred_dG_kcal_mol": -9.029999732971191,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CHEMBL3265008": {
+      "sdf": "ligands/CHEMBL3265008.sdf",
+      "exp_dG_kcal_mol": -9.784358024597168,
+      "fepplus_pred_dG_kcal_mol": -9.789999961853027,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265009": {
+      "sdf": "ligands/CHEMBL3265009.sdf",
+      "exp_dG_kcal_mol": -10.297627449035645,
+      "fepplus_pred_dG_kcal_mol": -10.239999771118164,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265010": {
+      "sdf": "ligands/CHEMBL3265010.sdf",
+      "exp_dG_kcal_mol": -10.132436752319336,
+      "fepplus_pred_dG_kcal_mol": -9.5600004196167,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265011": {
+      "sdf": "ligands/CHEMBL3265011.sdf",
+      "exp_dG_kcal_mol": -8.637885093688965,
+      "fepplus_pred_dG_kcal_mol": -8.359999656677246,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265011_flip": {
+      "sdf": "ligands/CHEMBL3265011_flip.sdf",
+      "exp_dG_kcal_mol": -8.637885093688965,
+      "fepplus_pred_dG_kcal_mol": -8.359999656677246,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265012": {
+      "sdf": "ligands/CHEMBL3265012.sdf",
+      "exp_dG_kcal_mol": -10.546293258666992,
+      "fepplus_pred_dG_kcal_mol": -9.670000076293945,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265013": {
+      "sdf": "ligands/CHEMBL3265013.sdf",
+      "exp_dG_kcal_mol": -9.81322193145752,
+      "fepplus_pred_dG_kcal_mol": -10.579999923706055,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265013_flip": {
+      "sdf": "ligands/CHEMBL3265013_flip.sdf",
+      "exp_dG_kcal_mol": -9.81322193145752,
+      "fepplus_pred_dG_kcal_mol": -10.579999923706055,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265014": {
+      "sdf": "ligands/CHEMBL3265014.sdf",
+      "exp_dG_kcal_mol": -10.40023136138916,
+      "fepplus_pred_dG_kcal_mol": -10.430000305175781,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265014_flip": {
+      "sdf": "ligands/CHEMBL3265014_flip.sdf",
+      "exp_dG_kcal_mol": -10.40023136138916,
+      "fepplus_pred_dG_kcal_mol": -10.430000305175781,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265015": {
+      "sdf": "ligands/CHEMBL3265015.sdf",
+      "exp_dG_kcal_mol": -9.477315902709961,
+      "fepplus_pred_dG_kcal_mol": -7.869999885559082,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265015_flip": {
+      "sdf": "ligands/CHEMBL3265015_flip.sdf",
+      "exp_dG_kcal_mol": -9.477315902709961,
+      "fepplus_pred_dG_kcal_mol": -7.869999885559082,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265016": {
+      "sdf": "ligands/CHEMBL3265016.sdf",
+      "exp_dG_kcal_mol": -11.689735412597656,
+      "fepplus_pred_dG_kcal_mol": -11.100000381469727,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265017": {
+      "sdf": "ligands/CHEMBL3265017.sdf",
+      "exp_dG_kcal_mol": -11.48725414276123,
+      "fepplus_pred_dG_kcal_mol": -11.40999984741211,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265018": {
+      "sdf": "ligands/CHEMBL3265018.sdf",
+      "exp_dG_kcal_mol": -11.187724113464355,
+      "fepplus_pred_dG_kcal_mol": -11.050000190734863,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265019": {
+      "sdf": "ligands/CHEMBL3265019.sdf",
+      "exp_dG_kcal_mol": -10.777045249938965,
+      "fepplus_pred_dG_kcal_mol": -11.670000076293945,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265020": {
+      "sdf": "ligands/CHEMBL3265020.sdf",
+      "exp_dG_kcal_mol": -11.003335952758789,
+      "fepplus_pred_dG_kcal_mol": -10.069999694824219,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265021": {
+      "sdf": "ligands/CHEMBL3265021.sdf",
+      "exp_dG_kcal_mol": -10.890737533569336,
+      "fepplus_pred_dG_kcal_mol": -10.260000228881836,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265022": {
+      "sdf": "ligands/CHEMBL3265022.sdf",
+      "exp_dG_kcal_mol": -10.791322708129883,
+      "fepplus_pred_dG_kcal_mol": -9.819999694824219,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265023": {
+      "sdf": "ligands/CHEMBL3265023.sdf",
+      "exp_dG_kcal_mol": -10.477216720581055,
+      "fepplus_pred_dG_kcal_mol": -9.720000267028809,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265024": {
+      "sdf": "ligands/CHEMBL3265024.sdf",
+      "exp_dG_kcal_mol": -11.784735679626465,
+      "fepplus_pred_dG_kcal_mol": -11.069999694824219,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265025": {
+      "sdf": "ligands/CHEMBL3265025.sdf",
+      "exp_dG_kcal_mol": -10.199455261230469,
+      "fepplus_pred_dG_kcal_mol": -10.619999885559082,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265025_flip": {
+      "sdf": "ligands/CHEMBL3265025_flip.sdf",
+      "exp_dG_kcal_mol": -10.199455261230469,
+      "fepplus_pred_dG_kcal_mol": -10.619999885559082,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265026": {
+      "sdf": "ligands/CHEMBL3265026.sdf",
+      "exp_dG_kcal_mol": -11.36131477355957,
+      "fepplus_pred_dG_kcal_mol": -10.210000038146973,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265027": {
+      "sdf": "ligands/CHEMBL3265027.sdf",
+      "exp_dG_kcal_mol": -10.329894065856934,
+      "fepplus_pred_dG_kcal_mol": -10.390000343322754,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265028": {
+      "sdf": "ligands/CHEMBL3265028.sdf",
+      "exp_dG_kcal_mol": -11.010265350341797,
+      "fepplus_pred_dG_kcal_mol": -10.699999809265137,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265029": {
+      "sdf": "ligands/CHEMBL3265029.sdf",
+      "exp_dG_kcal_mol": -11.125299453735352,
+      "fepplus_pred_dG_kcal_mol": -11.0600004196167,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265030_n": {
+      "sdf": "ligands/CHEMBL3265030_n.sdf",
+      "exp_dG_kcal_mol": -11.471863746643066,
+      "fepplus_pred_dG_kcal_mol": -11.329999923706055,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265031": {
+      "sdf": "ligands/CHEMBL3265031.sdf",
+      "exp_dG_kcal_mol": -12.078866958618164,
+      "fepplus_pred_dG_kcal_mol": -11.520000457763672,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265032": {
+      "sdf": "ligands/CHEMBL3265032.sdf",
+      "exp_dG_kcal_mol": -11.068829536437988,
+      "fepplus_pred_dG_kcal_mol": -11.199999809265137,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265033": {
+      "sdf": "ligands/CHEMBL3265033.sdf",
+      "exp_dG_kcal_mol": -11.838635444641113,
+      "fepplus_pred_dG_kcal_mol": -11.5600004196167,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265034": {
+      "sdf": "ligands/CHEMBL3265034.sdf",
+      "exp_dG_kcal_mol": -11.48725414276123,
+      "fepplus_pred_dG_kcal_mol": -11.59000015258789,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CHEMBL3265035": {
+      "sdf": "ligands/CHEMBL3265035.sdf",
+      "exp_dG_kcal_mol": -11.07657527923584,
+      "fepplus_pred_dG_kcal_mol": -11.609999656677246,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "CHEMBL3265036": {
+      "sdf": "ligands/CHEMBL3265036.sdf",
+      "exp_dG_kcal_mol": -10.417919158935547,
+      "fepplus_pred_dG_kcal_mol": -11.800000190734863,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CHEMBL3265037": {
+      "sdf": "ligands/CHEMBL3265037.sdf",
+      "exp_dG_kcal_mol": -12.764640808105469,
+      "fepplus_pred_dG_kcal_mol": -11.609999656677246,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "docked_CHEMBL3264994": {
+      "sdf": "ligands/docked_CHEMBL3264994.sdf",
+      "exp_dG_kcal_mol": -9.804960250854492,
+      "fepplus_pred_dG_kcal_mol": -10.670000076293945,
+      "fepplus_pred_err_kcal_mol": 0.12999999523162842
+    },
+    "docked_CHEMBL3264998": {
+      "sdf": "ligands/docked_CHEMBL3264998.sdf",
+      "exp_dG_kcal_mol": -11.712096214294434,
+      "fepplus_pred_dG_kcal_mol": -12.279999732971191,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "docked_CHEMBL3264999_adjust": {
+      "sdf": "ligands/docked_CHEMBL3264999_adjust.sdf",
+      "exp_dG_kcal_mol": -11.41401481628418,
+      "fepplus_pred_dG_kcal_mol": -11.489999771118164,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "docked_CHEMBL3265004": {
+      "sdf": "ligands/docked_CHEMBL3265004.sdf",
+      "exp_dG_kcal_mol": -10.857505798339844,
+      "fepplus_pred_dG_kcal_mol": -11.930000305175781,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "intermediate": {
+      "sdf": "ligands/intermediate.sdf",
+      "exp_dG_kcal_mol": null
+    },
+    "intermediate_1": {
+      "sdf": "ligands/intermediate_1.sdf",
+      "exp_dG_kcal_mol": null
+    },
+    "redocked_CHEMBL3265000": {
+      "sdf": "ligands/redocked_CHEMBL3265000.sdf",
+      "exp_dG_kcal_mol": -11.811073303222656,
+      "fepplus_pred_dG_kcal_mol": -12.470000267028809,
+      "fepplus_pred_err_kcal_mol": 0.07000000029802322
+    },
+    "redocked_CHEMBL3265000_ground_state": {
+      "sdf": "ligands/redocked_CHEMBL3265000_ground_state.sdf",
+      "exp_dG_kcal_mol": -11.811073303222656,
+      "fepplus_pred_dG_kcal_mol": -12.470000267028809,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    }
+  }
+}

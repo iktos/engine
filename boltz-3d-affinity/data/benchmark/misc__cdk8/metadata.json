@@ -1,0 +1,70 @@
+{
+  "openfe_subset": "misc",
+  "openfe_system": "cdk8",
+  "entry": "misc__cdk8",
+  "boltz2_4target": false,
+  "n_ligands": 10,
+  "n_with_exp_dG": 10,
+  "ligands": {
+    "12": {
+      "sdf": "ligands/12.sdf",
+      "exp_dG_kcal_mol": -9.83295726776123,
+      "fepplus_pred_dG_kcal_mol": -9.300000190734863,
+      "fepplus_pred_err_kcal_mol": 0.1599999964237213
+    },
+    "13": {
+      "sdf": "ligands/13.sdf",
+      "exp_dG_kcal_mol": -11.19720458984375,
+      "fepplus_pred_dG_kcal_mol": -11.390000343322754,
+      "fepplus_pred_err_kcal_mol": 0.17000000178813934
+    },
+    "14": {
+      "sdf": "ligands/14.sdf",
+      "exp_dG_kcal_mol": -11.031554222106934,
+      "fepplus_pred_dG_kcal_mol": -10.8100004196167,
+      "fepplus_pred_err_kcal_mol": 0.15000000596046448
+    },
+    "15": {
+      "sdf": "ligands/15.sdf",
+      "exp_dG_kcal_mol": -9.720175743103027,
+      "fepplus_pred_dG_kcal_mol": -10.170000076293945,
+      "fepplus_pred_err_kcal_mol": 0.17000000178813934
+    },
+    "16": {
+      "sdf": "ligands/16.sdf",
+      "exp_dG_kcal_mol": -10.635504722595215,
+      "fepplus_pred_dG_kcal_mol": -11.640000343322754,
+      "fepplus_pred_err_kcal_mol": 0.1599999964237213
+    },
+    "17": {
+      "sdf": "ligands/17.sdf",
+      "exp_dG_kcal_mol": -10.395273208618164,
+      "fepplus_pred_dG_kcal_mol": -12.149999618530273,
+      "fepplus_pred_err_kcal_mol": 0.1599999964237213
+    },
+    "19": {
+      "sdf": "ligands/19.sdf",
+      "exp_dG_kcal_mol": -10.224825859069824,
+      "fepplus_pred_dG_kcal_mol": -10.100000381469727,
+      "fepplus_pred_err_kcal_mol": 0.17000000178813934
+    },
+    "20": {
+      "sdf": "ligands/20.sdf",
+      "exp_dG_kcal_mol": -10.283149719238281,
+      "fepplus_pred_dG_kcal_mol": -9.430000305175781,
+      "fepplus_pred_err_kcal_mol": 0.15000000596046448
+    },
+    "21": {
+      "sdf": "ligands/21.sdf",
+      "exp_dG_kcal_mol": -9.862342834472656,
+      "fepplus_pred_dG_kcal_mol": -8.210000038146973,
+      "fepplus_pred_err_kcal_mol": 0.1599999964237213
+    },
+    "22": {
+      "sdf": "ligands/22.sdf",
+      "exp_dG_kcal_mol": -11.290130615234375,
+      "fepplus_pred_dG_kcal_mol": -11.279999732971191,
+      "fepplus_pred_err_kcal_mol": 0.1599999964237213
+    }
+  }
+}

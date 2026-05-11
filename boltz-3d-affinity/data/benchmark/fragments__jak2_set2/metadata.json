@@ -1,0 +1,64 @@
+{
+  "openfe_subset": "fragments",
+  "openfe_system": "jak2_set2",
+  "entry": "fragments__jak2_set2",
+  "boltz2_4target": false,
+  "n_ligands": 9,
+  "n_with_exp_dG": 9,
+  "ligands": {
+    "12": {
+      "sdf": "ligands/12.sdf",
+      "exp_dG_kcal_mol": -7.434834003448486,
+      "fepplus_pred_dG_kcal_mol": -6.639999866485596,
+      "fepplus_pred_err_kcal_mol": 0.33000001311302185
+    },
+    "13_3E64": {
+      "sdf": "ligands/13_3E64.sdf",
+      "exp_dG_kcal_mol": -9.696937561035156,
+      "fepplus_pred_dG_kcal_mol": -8.529999732971191,
+      "fepplus_pred_err_kcal_mol": 0.30000001192092896
+    },
+    "14": {
+      "sdf": "ligands/14.sdf",
+      "exp_dG_kcal_mol": -7.789802551269531,
+      "fepplus_pred_dG_kcal_mol": -7.800000190734863,
+      "fepplus_pred_err_kcal_mol": 0.2800000011920929
+    },
+    "15": {
+      "sdf": "ligands/15.sdf",
+      "exp_dG_kcal_mol": -7.379123210906982,
+      "fepplus_pred_dG_kcal_mol": -7.510000228881836,
+      "fepplus_pred_err_kcal_mol": 0.3700000047683716
+    },
+    "18": {
+      "sdf": "ligands/18.sdf",
+      "exp_dG_kcal_mol": -8.325143814086914,
+      "fepplus_pred_dG_kcal_mol": -8.020000457763672,
+      "fepplus_pred_err_kcal_mol": 0.3100000023841858
+    },
+    "20": {
+      "sdf": "ligands/20.sdf",
+      "exp_dG_kcal_mol": -8.067665100097656,
+      "fepplus_pred_dG_kcal_mol": -9.680000305175781,
+      "fepplus_pred_err_kcal_mol": 0.3499999940395355
+    },
+    "21": {
+      "sdf": "ligands/21.sdf",
+      "exp_dG_kcal_mol": -8.340335845947266,
+      "fepplus_pred_dG_kcal_mol": -9.25,
+      "fepplus_pred_err_kcal_mol": 0.30000001192092896
+    },
+    "22": {
+      "sdf": "ligands/22.sdf",
+      "exp_dG_kcal_mol": -10.107617378234863,
+      "fepplus_pred_dG_kcal_mol": -9.710000038146973,
+      "fepplus_pred_err_kcal_mol": 0.2800000011920929
+    },
+    "22_flip": {
+      "sdf": "ligands/22_flip.sdf",
+      "exp_dG_kcal_mol": -10.107617378234863,
+      "fepplus_pred_dG_kcal_mol": -9.710000038146973,
+      "fepplus_pred_err_kcal_mol": 0.2800000011920929
+    }
+  }
+}

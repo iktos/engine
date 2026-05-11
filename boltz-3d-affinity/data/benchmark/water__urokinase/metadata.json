@@ -1,0 +1,34 @@
+{
+  "openfe_subset": "water",
+  "openfe_system": "urokinase",
+  "entry": "water__urokinase",
+  "boltz2_4target": false,
+  "n_ligands": 4,
+  "n_with_exp_dG": 4,
+  "ligands": {
+    "10302_(1GJ7,_no_water_pose)": {
+      "sdf": "ligands/10302_(1GJ7,_no_water_pose).sdf",
+      "exp_dG_kcal_mol": -10.822356224060059,
+      "fepplus_pred_dG_kcal_mol": -11.039999961853027,
+      "fepplus_pred_err_kcal_mol": 0.20999999344348907
+    },
+    "11417_(no_water_pose)": {
+      "sdf": "ligands/11417_(no_water_pose).sdf",
+      "exp_dG_kcal_mol": -10.5656099319458,
+      "fepplus_pred_dG_kcal_mol": -10.050000190734863,
+      "fepplus_pred_err_kcal_mol": 0.20999999344348907
+    },
+    "7806_(no_water_pose)": {
+      "sdf": "ligands/7806_(no_water_pose).sdf",
+      "exp_dG_kcal_mol": -8.651498794555664,
+      "fepplus_pred_dG_kcal_mol": -8.960000038146973,
+      "fepplus_pred_err_kcal_mol": 0.20999999344348907
+    },
+    "8696_(no_water_pose)": {
+      "sdf": "ligands/8696_(no_water_pose).sdf",
+      "exp_dG_kcal_mol": -9.802173614501953,
+      "fepplus_pred_dG_kcal_mol": -9.789999961853027,
+      "fepplus_pred_err_kcal_mol": 0.20999999344348907
+    }
+  }
+}

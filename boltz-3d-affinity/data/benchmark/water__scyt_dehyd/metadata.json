@@ -1,0 +1,52 @@
+{
+  "openfe_subset": "water",
+  "openfe_system": "scyt_dehyd",
+  "entry": "water__scyt_dehyd",
+  "boltz2_4target": false,
+  "n_ligands": 7,
+  "n_with_exp_dG": 7,
+  "ligands": {
+    "2d": {
+      "sdf": "ligands/2d.sdf",
+      "exp_dG_kcal_mol": -13.481749534606934,
+      "fepplus_pred_dG_kcal_mol": -13.5,
+      "fepplus_pred_err_kcal_mol": 0.3199999928474426
+    },
+    "3d": {
+      "sdf": "ligands/3d.sdf",
+      "exp_dG_kcal_mol": -9.193268775939941,
+      "fepplus_pred_dG_kcal_mol": -9.1899995803833,
+      "fepplus_pred_err_kcal_mol": 0.3100000023841858
+    },
+    "4d": {
+      "sdf": "ligands/4d.sdf",
+      "exp_dG_kcal_mol": -15.343400001525879,
+      "fepplus_pred_dG_kcal_mol": -13.619999885559082,
+      "fepplus_pred_err_kcal_mol": 0.28999999165534973
+    },
+    "5d": {
+      "sdf": "ligands/5d.sdf",
+      "exp_dG_kcal_mol": -13.253490447998047,
+      "fepplus_pred_dG_kcal_mol": -14.680000305175781,
+      "fepplus_pred_err_kcal_mol": 0.30000001192092896
+    },
+    "6d": {
+      "sdf": "ligands/6d.sdf",
+      "exp_dG_kcal_mol": -9.405847549438477,
+      "fepplus_pred_dG_kcal_mol": -10.949999809265137,
+      "fepplus_pred_err_kcal_mol": 0.3100000023841858
+    },
+    "7d": {
+      "sdf": "ligands/7d.sdf",
+      "exp_dG_kcal_mol": -15.251520156860352,
+      "fepplus_pred_dG_kcal_mol": -13.65999984741211,
+      "fepplus_pred_err_kcal_mol": 0.28999999165534973
+    },
+    "8d": {
+      "sdf": "ligands/8d.sdf",
+      "exp_dG_kcal_mol": -10.628399848937988,
+      "fepplus_pred_dG_kcal_mol": -10.970000267028809,
+      "fepplus_pred_err_kcal_mol": 0.3199999928474426
+    }
+  }
+}

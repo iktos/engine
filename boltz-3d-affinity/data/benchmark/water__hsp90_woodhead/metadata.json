@@ -1,0 +1,34 @@
+{
+  "openfe_subset": "water",
+  "openfe_system": "hsp90_woodhead",
+  "entry": "water__hsp90_woodhead",
+  "boltz2_4target": false,
+  "n_ligands": 4,
+  "n_with_exp_dG": 4,
+  "ligands": {
+    "1": {
+      "sdf": "ligands/1.sdf",
+      "exp_dG_kcal_mol": -12.720000267028809,
+      "fepplus_pred_dG_kcal_mol": -13.100000381469727,
+      "fepplus_pred_err_kcal_mol": 0.20999999344348907
+    },
+    "2": {
+      "sdf": "ligands/2.sdf",
+      "exp_dG_kcal_mol": -10.739999771118164,
+      "fepplus_pred_dG_kcal_mol": -10.619999885559082,
+      "fepplus_pred_err_kcal_mol": 0.20000000298023224
+    },
+    "3": {
+      "sdf": "ligands/3.sdf",
+      "exp_dG_kcal_mol": -8.079999923706055,
+      "fepplus_pred_dG_kcal_mol": -7.949999809265137,
+      "fepplus_pred_err_kcal_mol": 0.20000000298023224
+    },
+    "4": {
+      "sdf": "ligands/4.sdf",
+      "exp_dG_kcal_mol": -8.930000305175781,
+      "fepplus_pred_dG_kcal_mol": -8.800000190734863,
+      "fepplus_pred_err_kcal_mol": 0.20000000298023224
+    }
+  }
+}

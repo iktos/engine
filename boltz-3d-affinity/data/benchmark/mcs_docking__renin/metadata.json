@@ -1,0 +1,184 @@
+{
+  "openfe_subset": "mcs_docking",
+  "openfe_system": "renin",
+  "entry": "mcs_docking__renin",
+  "boltz2_4target": false,
+  "n_ligands": 29,
+  "n_with_exp_dG": 29,
+  "ligands": {
+    "b1a2m": {
+      "sdf": "ligands/b1a2m.sdf",
+      "exp_dG_kcal_mol": -9.60566234588623,
+      "fepplus_pred_dG_kcal_mol": -11.020000457763672,
+      "fepplus_pred_err_kcal_mol": 0.09000000357627869
+    },
+    "b1i1": {
+      "sdf": "ligands/b1i1.sdf",
+      "exp_dG_kcal_mol": -7.394491195678711,
+      "fepplus_pred_dG_kcal_mol": -8.550000190734863,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "b1i2a": {
+      "sdf": "ligands/b1i2a.sdf",
+      "exp_dG_kcal_mol": -8.699529647827148,
+      "fepplus_pred_dG_kcal_mol": -9.6899995803833,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "b1i2c": {
+      "sdf": "ligands/b1i2c.sdf",
+      "exp_dG_kcal_mol": -6.883717060089111,
+      "fepplus_pred_dG_kcal_mol": -7.480000019073486,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "b1i2d": {
+      "sdf": "ligands/b1i2d.sdf",
+      "exp_dG_kcal_mol": -8.413992881774902,
+      "fepplus_pred_dG_kcal_mol": -8.550000190734863,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "b1i2e": {
+      "sdf": "ligands/b1i2e.sdf",
+      "exp_dG_kcal_mol": -10.474414825439453,
+      "fepplus_pred_dG_kcal_mol": -9.430000305175781,
+      "fepplus_pred_err_kcal_mol": 0.09000000357627869
+    },
+    "b1i2g": {
+      "sdf": "ligands/b1i2g.sdf",
+      "exp_dG_kcal_mol": -8.338004112243652,
+      "fepplus_pred_dG_kcal_mol": -9.380000114440918,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "b1i2h": {
+      "sdf": "ligands/b1i2h.sdf",
+      "exp_dG_kcal_mol": -9.823533058166504,
+      "fepplus_pred_dG_kcal_mol": -10.020000457763672,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "b1i2i": {
+      "sdf": "ligands/b1i2i.sdf",
+      "exp_dG_kcal_mol": -9.814119338989258,
+      "fepplus_pred_dG_kcal_mol": -11.039999961853027,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "b1i2j": {
+      "sdf": "ligands/b1i2j.sdf",
+      "exp_dG_kcal_mol": -11.324613571166992,
+      "fepplus_pred_dG_kcal_mol": -9.390000343322754,
+      "fepplus_pred_err_kcal_mol": 0.09000000357627869
+    },
+    "b1i2k": {
+      "sdf": "ligands/b1i2k.sdf",
+      "exp_dG_kcal_mol": -10.63553237915039,
+      "fepplus_pred_dG_kcal_mol": -10.380000114440918,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "b1i2n": {
+      "sdf": "ligands/b1i2n.sdf",
+      "exp_dG_kcal_mol": -10.976457595825195,
+      "fepplus_pred_dG_kcal_mol": -10.369999885559082,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "b1i2o": {
+      "sdf": "ligands/b1i2o.sdf",
+      "exp_dG_kcal_mol": -10.565683364868164,
+      "fepplus_pred_dG_kcal_mol": -11.539999961853027,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "b1i4a": {
+      "sdf": "ligands/b1i4a.sdf",
+      "exp_dG_kcal_mol": -7.235419750213623,
+      "fepplus_pred_dG_kcal_mol": -8.890000343322754,
+      "fepplus_pred_err_kcal_mol": 0.09000000357627869
+    },
+    "b1i4b": {
+      "sdf": "ligands/b1i4b.sdf",
+      "exp_dG_kcal_mol": -8.390936851501465,
+      "fepplus_pred_dG_kcal_mol": -9.239999771118164,
+      "fepplus_pred_err_kcal_mol": 0.09000000357627869
+    },
+    "b1i4e": {
+      "sdf": "ligands/b1i4e.sdf",
+      "exp_dG_kcal_mol": -10.188878059387207,
+      "fepplus_pred_dG_kcal_mol": -9.1899995803833,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "b1i4g": {
+      "sdf": "ligands/b1i4g.sdf",
+      "exp_dG_kcal_mol": -8.354374885559082,
+      "fepplus_pred_dG_kcal_mol": -7.079999923706055,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "b1i4i": {
+      "sdf": "ligands/b1i4i.sdf",
+      "exp_dG_kcal_mol": -8.79079818725586,
+      "fepplus_pred_dG_kcal_mol": -8.289999961853027,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "b1i5a": {
+      "sdf": "ligands/b1i5a.sdf",
+      "exp_dG_kcal_mol": -10.395288467407227,
+      "fepplus_pred_dG_kcal_mol": -9.720000267028809,
+      "fepplus_pred_err_kcal_mol": 0.11999999731779099
+    },
+    "b1i5b": {
+      "sdf": "ligands/b1i5b.sdf",
+      "exp_dG_kcal_mol": -8.007719993591309,
+      "fepplus_pred_dG_kcal_mol": -10.079999923706055,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "b1i5c": {
+      "sdf": "ligands/b1i5c.sdf",
+      "exp_dG_kcal_mol": -11.867584228515625,
+      "fepplus_pred_dG_kcal_mol": -9.979999542236328,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "b1i5d": {
+      "sdf": "ligands/b1i5d.sdf",
+      "exp_dG_kcal_mol": -11.216565132141113,
+      "fepplus_pred_dG_kcal_mol": -10.4399995803833,
+      "fepplus_pred_err_kcal_mol": 0.11999999731779099
+    },
+    "b1i5h": {
+      "sdf": "ligands/b1i5h.sdf",
+      "exp_dG_kcal_mol": -10.805927276611328,
+      "fepplus_pred_dG_kcal_mol": -10.869999885559082,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "b1i5i": {
+      "sdf": "ligands/b1i5i.sdf",
+      "exp_dG_kcal_mol": -11.456809043884277,
+      "fepplus_pred_dG_kcal_mol": -11.029999732971191,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "b1i5j": {
+      "sdf": "ligands/b1i5j.sdf",
+      "exp_dG_kcal_mol": -11.456809043884277,
+      "fepplus_pred_dG_kcal_mol": -10.960000038146973,
+      "fepplus_pred_err_kcal_mol": 0.12999999523162842
+    },
+    "b1i5k_xray": {
+      "sdf": "ligands/b1i5k_xray.sdf",
+      "exp_dG_kcal_mol": -11.867584228515625,
+      "fepplus_pred_dG_kcal_mol": -10.420000076293945,
+      "fepplus_pred_err_kcal_mol": 0.11999999731779099
+    },
+    "b1i5l": {
+      "sdf": "ligands/b1i5l.sdf",
+      "exp_dG_kcal_mol": -9.65300178527832,
+      "fepplus_pred_dG_kcal_mol": -9.489999771118164,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "b1i5n": {
+      "sdf": "ligands/b1i5n.sdf",
+      "exp_dG_kcal_mol": -10.243584632873535,
+      "fepplus_pred_dG_kcal_mol": -9.899999618530273,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    },
+    "b1i5o": {
+      "sdf": "ligands/b1i5o.sdf",
+      "exp_dG_kcal_mol": -10.03608226776123,
+      "fepplus_pred_dG_kcal_mol": -10.489999771118164,
+      "fepplus_pred_err_kcal_mol": 0.1599999964237213
+    }
+  }
+}

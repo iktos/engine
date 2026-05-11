@@ -1,0 +1,52 @@
+{
+  "openfe_subset": "charge_annihilation",
+  "openfe_system": "tyk2",
+  "entry": "charge_annihilation__tyk2",
+  "boltz2_4target": false,
+  "n_ligands": 7,
+  "n_with_exp_dG": 7,
+  "ligands": {
+    "ejm_46": {
+      "sdf": "ligands/ejm_46.sdf",
+      "exp_dG_kcal_mol": -11.420000076293945,
+      "fepplus_pred_dG_kcal_mol": -11.279999732971191,
+      "fepplus_pred_err_kcal_mol": 0.25
+    },
+    "ejm_47": {
+      "sdf": "ligands/ejm_47.sdf",
+      "exp_dG_kcal_mol": -9.789999961853027,
+      "fepplus_pred_dG_kcal_mol": -10.199999809265137,
+      "fepplus_pred_err_kcal_mol": 0.25
+    },
+    "ejm_52charg": {
+      "sdf": "ligands/ejm_52charg.sdf",
+      "exp_dG_kcal_mol": -7.489999771118164,
+      "fepplus_pred_dG_kcal_mol": -7.860000133514404,
+      "fepplus_pred_err_kcal_mol": 0.25
+    },
+    "ejm_52neu": {
+      "sdf": "ligands/ejm_52neu.sdf",
+      "exp_dG_kcal_mol": -7.489999771118164,
+      "fepplus_pred_dG_kcal_mol": -7.860000133514404,
+      "fepplus_pred_err_kcal_mol": 0.25
+    },
+    "jmc_31": {
+      "sdf": "ligands/jmc_31.sdf",
+      "exp_dG_kcal_mol": -10.920000076293945,
+      "fepplus_pred_dG_kcal_mol": -11.529999732971191,
+      "fepplus_pred_err_kcal_mol": 0.3100000023841858
+    },
+    "jmc_32charg": {
+      "sdf": "ligands/jmc_32charg.sdf",
+      "exp_dG_kcal_mol": -11.65999984741211,
+      "fepplus_pred_dG_kcal_mol": -10.300000190734863,
+      "fepplus_pred_err_kcal_mol": 0.33000001311302185
+    },
+    "jmc_32neu": {
+      "sdf": "ligands/jmc_32neu.sdf",
+      "exp_dG_kcal_mol": -11.65999984741211,
+      "fepplus_pred_dG_kcal_mol": -11.399999618530273,
+      "fepplus_pred_err_kcal_mol": 0.33000001311302185
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "openfe_subset": "charge_annihilation",
+  "openfe_system": "irak4_s3",
+  "entry": "charge_annihilation__irak4_s3",
+  "boltz2_4target": false,
+  "n_ligands": 6,
+  "n_with_exp_dG": 6,
+  "ligands": {
+    "19charg": {
+      "sdf": "ligands/19charg.sdf",
+      "exp_dG_kcal_mol": -10.600000381469727,
+      "fepplus_pred_dG_kcal_mol": -9.5,
+      "fepplus_pred_err_kcal_mol": 0.27000001072883606
+    },
+    "19neu": {
+      "sdf": "ligands/19neu.sdf",
+      "exp_dG_kcal_mol": -10.600000381469727,
+      "fepplus_pred_dG_kcal_mol": -9.5,
+      "fepplus_pred_err_kcal_mol": 0.30000001192092896
+    },
+    "27": {
+      "sdf": "ligands/27.sdf",
+      "exp_dG_kcal_mol": -8.710000038146973,
+      "fepplus_pred_dG_kcal_mol": -8.640000343322754,
+      "fepplus_pred_err_kcal_mol": 0.25
+    },
+    "28charg": {
+      "sdf": "ligands/28charg.sdf",
+      "exp_dG_kcal_mol": -9.5,
+      "fepplus_pred_dG_kcal_mol": -10.3100004196167,
+      "fepplus_pred_err_kcal_mol": 0.30000001192092896
+    },
+    "28neu": {
+      "sdf": "ligands/28neu.sdf",
+      "exp_dG_kcal_mol": -9.5,
+      "fepplus_pred_dG_kcal_mol": -10.3100004196167,
+      "fepplus_pred_err_kcal_mol": 0.25999999046325684
+    },
+    "29": {
+      "sdf": "ligands/29.sdf",
+      "exp_dG_kcal_mol": -8.710000038146973,
+      "fepplus_pred_dG_kcal_mol": -9.359999656677246,
+      "fepplus_pred_err_kcal_mol": 0.27000001072883606
+    }
+  }
+}

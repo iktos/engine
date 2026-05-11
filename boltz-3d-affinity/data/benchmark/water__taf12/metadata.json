@@ -1,0 +1,58 @@
+{
+  "openfe_subset": "water",
+  "openfe_system": "taf12",
+  "entry": "water__taf12",
+  "boltz2_4target": false,
+  "n_ligands": 8,
+  "n_with_exp_dG": 8,
+  "ligands": {
+    "cmpd_2_(methyl)": {
+      "sdf": "ligands/cmpd_2_(methyl).sdf",
+      "exp_dG_kcal_mol": -9.859999656677246,
+      "fepplus_pred_dG_kcal_mol": -9.449999809265137,
+      "fepplus_pred_err_kcal_mol": 0.15000000596046448
+    },
+    "cmpd_3_(Allyl)": {
+      "sdf": "ligands/cmpd_3_(Allyl).sdf",
+      "exp_dG_kcal_mol": -8.34000015258789,
+      "fepplus_pred_dG_kcal_mol": -8.670000076293945,
+      "fepplus_pred_err_kcal_mol": 0.1599999964237213
+    },
+    "cmpd_4_(Crotyl)": {
+      "sdf": "ligands/cmpd_4_(Crotyl).sdf",
+      "exp_dG_kcal_mol": -8.710000038146973,
+      "fepplus_pred_dG_kcal_mol": -8.329999923706055,
+      "fepplus_pred_err_kcal_mol": 0.1599999964237213
+    },
+    "cmpd_5_(1-Butenyl)": {
+      "sdf": "ligands/cmpd_5_(1-Butenyl).sdf",
+      "exp_dG_kcal_mol": -10.0,
+      "fepplus_pred_dG_kcal_mol": -9.59000015258789,
+      "fepplus_pred_err_kcal_mol": 0.1599999964237213
+    },
+    "cmpd_6_(ethyl)": {
+      "sdf": "ligands/cmpd_6_(ethyl).sdf",
+      "exp_dG_kcal_mol": -8.529999732971191,
+      "fepplus_pred_dG_kcal_mol": -8.819999694824219,
+      "fepplus_pred_err_kcal_mol": 0.1599999964237213
+    },
+    "cmpd_7_(n-propyl)": {
+      "sdf": "ligands/cmpd_7_(n-propyl).sdf",
+      "exp_dG_kcal_mol": -8.119999885559082,
+      "fepplus_pred_dG_kcal_mol": -8.369999885559082,
+      "fepplus_pred_err_kcal_mol": 0.1599999964237213
+    },
+    "cmpd_8_(n-Butyl)": {
+      "sdf": "ligands/cmpd_8_(n-Butyl).sdf",
+      "exp_dG_kcal_mol": -8.279999732971191,
+      "fepplus_pred_dG_kcal_mol": -8.680000305175781,
+      "fepplus_pred_err_kcal_mol": 0.1599999964237213
+    },
+    "cmpd_9_(methoxyethyl)": {
+      "sdf": "ligands/cmpd_9_(methoxyethyl).sdf",
+      "exp_dG_kcal_mol": -7.690000057220459,
+      "fepplus_pred_dG_kcal_mol": -7.610000133514404,
+      "fepplus_pred_err_kcal_mol": 0.1599999964237213
+    }
+  }
+}

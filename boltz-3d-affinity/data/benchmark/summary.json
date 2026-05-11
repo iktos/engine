@@ -1,0 +1,406 @@
+{
+  "description": "OpenFE benchmark (876 ligands) - exact match to openfe-benchmarks index",
+  "total_systems": 56,
+  "total_ligands": 1054,
+  "total_with_exp_dG": 1026,
+  "boltz2_4target": [
+    "jacs__cdk2",
+    "jacs__jnk1",
+    "jacs__p38",
+    "jacs__tyk2"
+  ],
+  "systems": {
+    "charge_annihilation__cdk2": {
+      "subset": "charge_annihilation",
+      "system": "cdk2",
+      "boltz2_4target": false,
+      "n_ligands": 4,
+      "n_with_exp_dG": 4
+    },
+    "charge_annihilation__dlk": {
+      "subset": "charge_annihilation",
+      "system": "dlk",
+      "boltz2_4target": false,
+      "n_ligands": 7,
+      "n_with_exp_dG": 7
+    },
+    "charge_annihilation__egfr": {
+      "subset": "charge_annihilation",
+      "system": "egfr",
+      "boltz2_4target": false,
+      "n_ligands": 10,
+      "n_with_exp_dG": 10
+    },
+    "charge_annihilation__ephx2": {
+      "subset": "charge_annihilation",
+      "system": "ephx2",
+      "boltz2_4target": false,
+      "n_ligands": 6,
+      "n_with_exp_dG": 6
+    },
+    "charge_annihilation__irak4_s2": {
+      "subset": "charge_annihilation",
+      "system": "irak4_s2",
+      "boltz2_4target": false,
+      "n_ligands": 7,
+      "n_with_exp_dG": 7
+    },
+    "charge_annihilation__irak4_s3": {
+      "subset": "charge_annihilation",
+      "system": "irak4_s3",
+      "boltz2_4target": false,
+      "n_ligands": 6,
+      "n_with_exp_dG": 6
+    },
+    "charge_annihilation__itk": {
+      "subset": "charge_annihilation",
+      "system": "itk",
+      "boltz2_4target": false,
+      "n_ligands": 5,
+      "n_with_exp_dG": 5
+    },
+    "charge_annihilation__jak1": {
+      "subset": "charge_annihilation",
+      "system": "jak1",
+      "boltz2_4target": false,
+      "n_ligands": 8,
+      "n_with_exp_dG": 8
+    },
+    "charge_annihilation__jnk1": {
+      "subset": "charge_annihilation",
+      "system": "jnk1",
+      "boltz2_4target": false,
+      "n_ligands": 5,
+      "n_with_exp_dG": 5
+    },
+    "charge_annihilation__ptp1b": {
+      "subset": "charge_annihilation",
+      "system": "ptp1b",
+      "boltz2_4target": false,
+      "n_ligands": 4,
+      "n_with_exp_dG": 4
+    },
+    "charge_annihilation__thrombin": {
+      "subset": "charge_annihilation",
+      "system": "thrombin",
+      "boltz2_4target": false,
+      "n_ligands": 6,
+      "n_with_exp_dG": 6
+    },
+    "charge_annihilation__tyk2": {
+      "subset": "charge_annihilation",
+      "system": "tyk2",
+      "boltz2_4target": false,
+      "n_ligands": 7,
+      "n_with_exp_dG": 7
+    },
+    "fragments__hsp90_2rings": {
+      "subset": "fragments",
+      "system": "hsp90_2rings",
+      "boltz2_4target": false,
+      "n_ligands": 6,
+      "n_with_exp_dG": 6
+    },
+    "fragments__hsp90_single_ring": {
+      "subset": "fragments",
+      "system": "hsp90_single_ring",
+      "boltz2_4target": false,
+      "n_ligands": 7,
+      "n_with_exp_dG": 7
+    },
+    "fragments__jak2_set1": {
+      "subset": "fragments",
+      "system": "jak2_set1",
+      "boltz2_4target": false,
+      "n_ligands": 12,
+      "n_with_exp_dG": 12
+    },
+    "fragments__jak2_set2": {
+      "subset": "fragments",
+      "system": "jak2_set2",
+      "boltz2_4target": false,
+      "n_ligands": 9,
+      "n_with_exp_dG": 9
+    },
+    "fragments__liga": {
+      "subset": "fragments",
+      "system": "liga",
+      "boltz2_4target": false,
+      "n_ligands": 11,
+      "n_with_exp_dG": 11
+    },
+    "fragments__mcl1": {
+      "subset": "fragments",
+      "system": "mcl1",
+      "boltz2_4target": false,
+      "n_ligands": 12,
+      "n_with_exp_dG": 12
+    },
+    "fragments__mup1": {
+      "subset": "fragments",
+      "system": "mup1",
+      "boltz2_4target": false,
+      "n_ligands": 7,
+      "n_with_exp_dG": 7
+    },
+    "fragments__p38": {
+      "subset": "fragments",
+      "system": "p38",
+      "boltz2_4target": false,
+      "n_ligands": 6,
+      "n_with_exp_dG": 6
+    },
+    "fragments__t4_lysozyme": {
+      "subset": "fragments",
+      "system": "t4_lysozyme",
+      "boltz2_4target": false,
+      "n_ligands": 12,
+      "n_with_exp_dG": 12
+    },
+    "jacs__bace": {
+      "subset": "jacs",
+      "system": "bace",
+      "boltz2_4target": false,
+      "n_ligands": 36,
+      "n_with_exp_dG": 36
+    },
+    "jacs__cdk2": {
+      "subset": "jacs",
+      "system": "cdk2",
+      "boltz2_4target": true,
+      "n_ligands": 16,
+      "n_with_exp_dG": 16
+    },
+    "jacs__jnk1": {
+      "subset": "jacs",
+      "system": "jnk1",
+      "boltz2_4target": true,
+      "n_ligands": 38,
+      "n_with_exp_dG": 38
+    },
+    "jacs__mcl1": {
+      "subset": "jacs",
+      "system": "mcl1",
+      "boltz2_4target": false,
+      "n_ligands": 69,
+      "n_with_exp_dG": 69
+    },
+    "jacs__p38": {
+      "subset": "jacs",
+      "system": "p38",
+      "boltz2_4target": true,
+      "n_ligands": 34,
+      "n_with_exp_dG": 34
+    },
+    "jacs__ptp1b": {
+      "subset": "jacs",
+      "system": "ptp1b",
+      "boltz2_4target": false,
+      "n_ligands": 23,
+      "n_with_exp_dG": 23
+    },
+    "jacs__thrombin": {
+      "subset": "jacs",
+      "system": "thrombin",
+      "boltz2_4target": false,
+      "n_ligands": 11,
+      "n_with_exp_dG": 11
+    },
+    "jacs__tyk2": {
+      "subset": "jacs",
+      "system": "tyk2",
+      "boltz2_4target": true,
+      "n_ligands": 16,
+      "n_with_exp_dG": 16
+    },
+    "janssen__bace_ciordia_prospective": {
+      "subset": "janssen",
+      "system": "bace_ciordia_prospective",
+      "boltz2_4target": false,
+      "n_ligands": 9,
+      "n_with_exp_dG": 9
+    },
+    "janssen__bace_p3_arg368_in": {
+      "subset": "janssen",
+      "system": "bace_p3_arg368_in",
+      "boltz2_4target": false,
+      "n_ligands": 21,
+      "n_with_exp_dG": 21
+    },
+    "janssen__ciordia_retro": {
+      "subset": "janssen",
+      "system": "ciordia_retro",
+      "boltz2_4target": false,
+      "n_ligands": 33,
+      "n_with_exp_dG": 33
+    },
+    "janssen__keranen_p2": {
+      "subset": "janssen",
+      "system": "keranen_p2",
+      "boltz2_4target": false,
+      "n_ligands": 18,
+      "n_with_exp_dG": 13
+    },
+    "mcs_docking__hne": {
+      "subset": "mcs_docking",
+      "system": "hne",
+      "boltz2_4target": false,
+      "n_ligands": 20,
+      "n_with_exp_dG": 20
+    },
+    "mcs_docking__renin": {
+      "subset": "mcs_docking",
+      "system": "renin",
+      "boltz2_4target": false,
+      "n_ligands": 29,
+      "n_with_exp_dG": 29
+    },
+    "merck__cdk8": {
+      "subset": "merck",
+      "system": "cdk8",
+      "boltz2_4target": false,
+      "n_ligands": 41,
+      "n_with_exp_dG": 40
+    },
+    "merck__cmet": {
+      "subset": "merck",
+      "system": "cmet",
+      "boltz2_4target": false,
+      "n_ligands": 24,
+      "n_with_exp_dG": 24
+    },
+    "merck__eg5": {
+      "subset": "merck",
+      "system": "eg5",
+      "boltz2_4target": false,
+      "n_ligands": 34,
+      "n_with_exp_dG": 34
+    },
+    "merck__hif2a": {
+      "subset": "merck",
+      "system": "hif2a",
+      "boltz2_4target": false,
+      "n_ligands": 51,
+      "n_with_exp_dG": 51
+    },
+    "merck__pfkfb3": {
+      "subset": "merck",
+      "system": "pfkfb3",
+      "boltz2_4target": false,
+      "n_ligands": 87,
+      "n_with_exp_dG": 85
+    },
+    "merck__shp2": {
+      "subset": "merck",
+      "system": "shp2",
+      "boltz2_4target": false,
+      "n_ligands": 26,
+      "n_with_exp_dG": 26
+    },
+    "merck__syk": {
+      "subset": "merck",
+      "system": "syk",
+      "boltz2_4target": false,
+      "n_ligands": 53,
+      "n_with_exp_dG": 51
+    },
+    "merck__tnks2": {
+      "subset": "merck",
+      "system": "tnks2",
+      "boltz2_4target": false,
+      "n_ligands": 33,
+      "n_with_exp_dG": 33
+    },
+    "misc__btk": {
+      "subset": "misc",
+      "system": "btk",
+      "boltz2_4target": false,
+      "n_ligands": 8,
+      "n_with_exp_dG": 8
+    },
+    "misc__cdk8": {
+      "subset": "misc",
+      "system": "cdk8",
+      "boltz2_4target": false,
+      "n_ligands": 10,
+      "n_with_exp_dG": 10
+    },
+    "misc__faah": {
+      "subset": "misc",
+      "system": "faah",
+      "boltz2_4target": false,
+      "n_ligands": 24,
+      "n_with_exp_dG": 24
+    },
+    "misc__galectin": {
+      "subset": "misc",
+      "system": "galectin",
+      "boltz2_4target": false,
+      "n_ligands": 26,
+      "n_with_exp_dG": 26
+    },
+    "misc__hiv1_protease": {
+      "subset": "misc",
+      "system": "hiv1_protease",
+      "boltz2_4target": false,
+      "n_ligands": 13,
+      "n_with_exp_dG": 13
+    },
+    "water__brd4": {
+      "subset": "water",
+      "system": "brd4",
+      "boltz2_4target": false,
+      "n_ligands": 8,
+      "n_with_exp_dG": 8
+    },
+    "water__chk1": {
+      "subset": "water",
+      "system": "chk1",
+      "boltz2_4target": false,
+      "n_ligands": 13,
+      "n_with_exp_dG": 13
+    },
+    "water__hsp90_kung": {
+      "subset": "water",
+      "system": "hsp90_kung",
+      "boltz2_4target": false,
+      "n_ligands": 11,
+      "n_with_exp_dG": 11
+    },
+    "water__hsp90_woodhead": {
+      "subset": "water",
+      "system": "hsp90_woodhead",
+      "boltz2_4target": false,
+      "n_ligands": 4,
+      "n_with_exp_dG": 4
+    },
+    "water__scyt_dehyd": {
+      "subset": "water",
+      "system": "scyt_dehyd",
+      "boltz2_4target": false,
+      "n_ligands": 7,
+      "n_with_exp_dG": 7
+    },
+    "water__taf12": {
+      "subset": "water",
+      "system": "taf12",
+      "boltz2_4target": false,
+      "n_ligands": 8,
+      "n_with_exp_dG": 8
+    },
+    "water__thrombin": {
+      "subset": "water",
+      "system": "thrombin",
+      "boltz2_4target": false,
+      "n_ligands": 39,
+      "n_with_exp_dG": 21
+    },
+    "water__urokinase": {
+      "subset": "water",
+      "system": "urokinase",
+      "boltz2_4target": false,
+      "n_ligands": 4,
+      "n_with_exp_dG": 4
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "openfe_subset": "fragments",
+  "openfe_system": "t4_lysozyme",
+  "entry": "fragments__t4_lysozyme",
+  "boltz2_4target": false,
+  "n_ligands": 12,
+  "n_with_exp_dG": 12,
+  "ligands": {
+    "benzene": {
+      "sdf": "ligands/benzene.sdf",
+      "exp_dG_kcal_mol": -5.159999847412109,
+      "fepplus_pred_dG_kcal_mol": -4.309999942779541,
+      "fepplus_pred_err_kcal_mol": 0.11999999731779099
+    },
+    "butyl_benzene": {
+      "sdf": "ligands/butyl_benzene.sdf",
+      "exp_dG_kcal_mol": -6.659999847412109,
+      "fepplus_pred_dG_kcal_mol": -5.960000038146973,
+      "fepplus_pred_err_kcal_mol": 0.11999999731779099
+    },
+    "ethyl_benzene": {
+      "sdf": "ligands/ethyl_benzene.sdf",
+      "exp_dG_kcal_mol": -5.71999979019165,
+      "fepplus_pred_dG_kcal_mol": -5.639999866485596,
+      "fepplus_pred_err_kcal_mol": 0.11999999731779099
+    },
+    "isobutyl_benzene": {
+      "sdf": "ligands/isobutyl_benzene.sdf",
+      "exp_dG_kcal_mol": -6.440000057220459,
+      "fepplus_pred_dG_kcal_mol": -5.900000095367432,
+      "fepplus_pred_err_kcal_mol": 0.11999999731779099
+    },
+    "m-xylene": {
+      "sdf": "ligands/m-xylene.sdf",
+      "exp_dG_kcal_mol": -4.71999979019165,
+      "fepplus_pred_dG_kcal_mol": -4.400000095367432,
+      "fepplus_pred_err_kcal_mol": 0.11999999731779099
+    },
+    "meta_methyl_ethyl_benzene": {
+      "sdf": "ligands/meta_methyl_ethyl_benzene.sdf",
+      "exp_dG_kcal_mol": -5.079999923706055,
+      "fepplus_pred_dG_kcal_mol": -5.119999885559082,
+      "fepplus_pred_err_kcal_mol": 0.11999999731779099
+    },
+    "methyl_benzene": {
+      "sdf": "ligands/methyl_benzene.sdf",
+      "exp_dG_kcal_mol": -5.480000019073486,
+      "fepplus_pred_dG_kcal_mol": -4.920000076293945,
+      "fepplus_pred_err_kcal_mol": 0.12999999523162842
+    },
+    "o-xylene": {
+      "sdf": "ligands/o-xylene.sdf",
+      "exp_dG_kcal_mol": -4.570000171661377,
+      "fepplus_pred_dG_kcal_mol": -5.039999961853027,
+      "fepplus_pred_err_kcal_mol": 0.11999999731779099
+    },
+    "ortho_methyl_ethyl_benzene": {
+      "sdf": "ligands/ortho_methyl_ethyl_benzene.sdf",
+      "exp_dG_kcal_mol": -4.53000020980835,
+      "fepplus_pred_dG_kcal_mol": -5.690000057220459,
+      "fepplus_pred_err_kcal_mol": 0.11999999731779099
+    },
+    "p-xylene": {
+      "sdf": "ligands/p-xylene.sdf",
+      "exp_dG_kcal_mol": -4.630000114440918,
+      "fepplus_pred_dG_kcal_mol": -4.860000133514404,
+      "fepplus_pred_err_kcal_mol": 0.12999999523162842
+    },
+    "para_methyl_ethyl_benzene": {
+      "sdf": "ligands/para_methyl_ethyl_benzene.sdf",
+      "exp_dG_kcal_mol": -5.380000114440918,
+      "fepplus_pred_dG_kcal_mol": -6.320000171661377,
+      "fepplus_pred_err_kcal_mol": 0.12999999523162842
+    },
+    "propyl_benzene": {
+      "sdf": "ligands/propyl_benzene.sdf",
+      "exp_dG_kcal_mol": -6.510000228881836,
+      "fepplus_pred_dG_kcal_mol": -6.710000038146973,
+      "fepplus_pred_err_kcal_mol": 0.11999999731779099
+    }
+  }
+}

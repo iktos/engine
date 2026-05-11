@@ -1,0 +1,76 @@
+{
+  "openfe_subset": "jacs",
+  "openfe_system": "thrombin",
+  "entry": "jacs__thrombin",
+  "boltz2_4target": false,
+  "n_ligands": 11,
+  "n_with_exp_dG": 11,
+  "ligands": {
+    "1a": {
+      "sdf": "ligands/1a.sdf",
+      "exp_dG_kcal_mol": -7.480000019073486,
+      "fepplus_pred_dG_kcal_mol": -7.320000171661377,
+      "fepplus_pred_err_kcal_mol": 0.14000000059604645
+    },
+    "1b": {
+      "sdf": "ligands/1b.sdf",
+      "exp_dG_kcal_mol": -8.460000038146973,
+      "fepplus_pred_dG_kcal_mol": -8.1899995803833,
+      "fepplus_pred_err_kcal_mol": 0.1599999964237213
+    },
+    "1c": {
+      "sdf": "ligands/1c.sdf",
+      "exp_dG_kcal_mol": -8.5600004196167,
+      "fepplus_pred_dG_kcal_mol": -9.039999961853027,
+      "fepplus_pred_err_kcal_mol": 0.12999999523162842
+    },
+    "1d": {
+      "sdf": "ligands/1d.sdf",
+      "exp_dG_kcal_mol": -8.25,
+      "fepplus_pred_dG_kcal_mol": -9.420000076293945,
+      "fepplus_pred_err_kcal_mol": 0.12999999523162842
+    },
+    "3a": {
+      "sdf": "ligands/3a.sdf",
+      "exp_dG_kcal_mol": -8.319999694824219,
+      "fepplus_pred_dG_kcal_mol": -7.789999961853027,
+      "fepplus_pred_err_kcal_mol": 0.12999999523162842
+    },
+    "3b": {
+      "sdf": "ligands/3b.sdf",
+      "exp_dG_kcal_mol": -7.860000133514404,
+      "fepplus_pred_dG_kcal_mol": -7.860000133514404,
+      "fepplus_pred_err_kcal_mol": 0.14000000059604645
+    },
+    "5": {
+      "sdf": "ligands/5.sdf",
+      "exp_dG_kcal_mol": -7.579999923706055,
+      "fepplus_pred_dG_kcal_mol": -6.699999809265137,
+      "fepplus_pred_err_kcal_mol": 0.12999999523162842
+    },
+    "6a": {
+      "sdf": "ligands/6a.sdf",
+      "exp_dG_kcal_mol": -9.180000305175781,
+      "fepplus_pred_dG_kcal_mol": -9.65999984741211,
+      "fepplus_pred_err_kcal_mol": 0.14000000059604645
+    },
+    "6b": {
+      "sdf": "ligands/6b.sdf",
+      "exp_dG_kcal_mol": -8.890000343322754,
+      "fepplus_pred_dG_kcal_mol": -9.069999694824219,
+      "fepplus_pred_err_kcal_mol": 0.12999999523162842
+    },
+    "6e": {
+      "sdf": "ligands/6e.sdf",
+      "exp_dG_kcal_mol": -8.90999984741211,
+      "fepplus_pred_dG_kcal_mol": -8.609999656677246,
+      "fepplus_pred_err_kcal_mol": 0.12999999523162842
+    },
+    "7a": {
+      "sdf": "ligands/7a.sdf",
+      "exp_dG_kcal_mol": -8.220000267028809,
+      "fepplus_pred_dG_kcal_mol": -8.050000190734863,
+      "fepplus_pred_err_kcal_mol": 0.12999999523162842
+    }
+  }
+}

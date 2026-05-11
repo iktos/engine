@@ -1,0 +1,226 @@
+{
+  "openfe_subset": "jacs",
+  "openfe_system": "bace",
+  "entry": "jacs__bace",
+  "boltz2_4target": false,
+  "n_ligands": 36,
+  "n_with_exp_dG": 36,
+  "ligands": {
+    "CAT-13a": {
+      "sdf": "ligands/CAT-13a.sdf",
+      "exp_dG_kcal_mol": -8.843000411987305,
+      "fepplus_pred_dG_kcal_mol": -9.279999732971191,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-13b": {
+      "sdf": "ligands/CAT-13b.sdf",
+      "exp_dG_kcal_mol": -9.123000144958496,
+      "fepplus_pred_dG_kcal_mol": -9.630000114440918,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-13c": {
+      "sdf": "ligands/CAT-13c.sdf",
+      "exp_dG_kcal_mol": -9.322999954223633,
+      "fepplus_pred_dG_kcal_mol": -9.630000114440918,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-13d": {
+      "sdf": "ligands/CAT-13d.sdf",
+      "exp_dG_kcal_mol": -10.472999572753906,
+      "fepplus_pred_dG_kcal_mol": -10.630000114440918,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-13e": {
+      "sdf": "ligands/CAT-13e.sdf",
+      "exp_dG_kcal_mol": -9.963000297546387,
+      "fepplus_pred_dG_kcal_mol": -10.520000457763672,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-13f": {
+      "sdf": "ligands/CAT-13f.sdf",
+      "exp_dG_kcal_mol": -9.093000411987305,
+      "fepplus_pred_dG_kcal_mol": -9.529999732971191,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-13g": {
+      "sdf": "ligands/CAT-13g.sdf",
+      "exp_dG_kcal_mol": -9.093000411987305,
+      "fepplus_pred_dG_kcal_mol": -9.319999694824219,
+      "fepplus_pred_err_kcal_mol": 0.09000000357627869
+    },
+    "CAT-13h": {
+      "sdf": "ligands/CAT-13h.sdf",
+      "exp_dG_kcal_mol": -9.633000373840332,
+      "fepplus_pred_dG_kcal_mol": -9.390000343322754,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-13i": {
+      "sdf": "ligands/CAT-13i.sdf",
+      "exp_dG_kcal_mol": -9.27299976348877,
+      "fepplus_pred_dG_kcal_mol": -10.760000228881836,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-13j": {
+      "sdf": "ligands/CAT-13j.sdf",
+      "exp_dG_kcal_mol": -8.732999801635742,
+      "fepplus_pred_dG_kcal_mol": -9.069999694824219,
+      "fepplus_pred_err_kcal_mol": 0.09000000357627869
+    },
+    "CAT-13k": {
+      "sdf": "ligands/CAT-13k.sdf",
+      "exp_dG_kcal_mol": -9.70300006866455,
+      "fepplus_pred_dG_kcal_mol": -10.510000228881836,
+      "fepplus_pred_err_kcal_mol": 0.09000000357627869
+    },
+    "CAT-13m": {
+      "sdf": "ligands/CAT-13m.sdf",
+      "exp_dG_kcal_mol": -8.762999534606934,
+      "fepplus_pred_dG_kcal_mol": -10.5,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-13n": {
+      "sdf": "ligands/CAT-13n.sdf",
+      "exp_dG_kcal_mol": -8.543000221252441,
+      "fepplus_pred_dG_kcal_mol": -7.679999828338623,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-13o": {
+      "sdf": "ligands/CAT-13o.sdf",
+      "exp_dG_kcal_mol": -8.543000221252441,
+      "fepplus_pred_dG_kcal_mol": -9.4399995803833,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-17a": {
+      "sdf": "ligands/CAT-17a.sdf",
+      "exp_dG_kcal_mol": -10.732999801635742,
+      "fepplus_pred_dG_kcal_mol": -11.350000381469727,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-17b": {
+      "sdf": "ligands/CAT-17b.sdf",
+      "exp_dG_kcal_mol": -10.02299976348877,
+      "fepplus_pred_dG_kcal_mol": -8.819999694824219,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-17c": {
+      "sdf": "ligands/CAT-17c.sdf",
+      "exp_dG_kcal_mol": -9.86299991607666,
+      "fepplus_pred_dG_kcal_mol": -10.029999732971191,
+      "fepplus_pred_err_kcal_mol": 0.09000000357627869
+    },
+    "CAT-17d": {
+      "sdf": "ligands/CAT-17d.sdf",
+      "exp_dG_kcal_mol": -9.42300033569336,
+      "fepplus_pred_dG_kcal_mol": -8.359999656677246,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-17e": {
+      "sdf": "ligands/CAT-17e.sdf",
+      "exp_dG_kcal_mol": -10.02299976348877,
+      "fepplus_pred_dG_kcal_mol": -9.119999885559082,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-17f": {
+      "sdf": "ligands/CAT-17f.sdf",
+      "exp_dG_kcal_mol": -9.42300033569336,
+      "fepplus_pred_dG_kcal_mol": -9.739999771118164,
+      "fepplus_pred_err_kcal_mol": 0.09000000357627869
+    },
+    "CAT-17g": {
+      "sdf": "ligands/CAT-17g.sdf",
+      "exp_dG_kcal_mol": -9.743000030517578,
+      "fepplus_pred_dG_kcal_mol": -9.010000228881836,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-17h": {
+      "sdf": "ligands/CAT-17h.sdf",
+      "exp_dG_kcal_mol": -10.333000183105469,
+      "fepplus_pred_dG_kcal_mol": -10.260000228881836,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-17i": {
+      "sdf": "ligands/CAT-17i.sdf",
+      "exp_dG_kcal_mol": -9.472999572753906,
+      "fepplus_pred_dG_kcal_mol": -9.34000015258789,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-24": {
+      "sdf": "ligands/CAT-24.sdf",
+      "exp_dG_kcal_mol": -11.350000381469727,
+      "fepplus_pred_dG_kcal_mol": -10.789999961853027,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-4a": {
+      "sdf": "ligands/CAT-4a.sdf",
+      "exp_dG_kcal_mol": -7.933000087738037,
+      "fepplus_pred_dG_kcal_mol": -8.670000076293945,
+      "fepplus_pred_err_kcal_mol": 0.09000000357627869
+    },
+    "CAT-4b": {
+      "sdf": "ligands/CAT-4b.sdf",
+      "exp_dG_kcal_mol": -9.633000373840332,
+      "fepplus_pred_dG_kcal_mol": -9.260000228881836,
+      "fepplus_pred_err_kcal_mol": 0.09000000357627869
+    },
+    "CAT-4c": {
+      "sdf": "ligands/CAT-4c.sdf",
+      "exp_dG_kcal_mol": -7.853000164031982,
+      "fepplus_pred_dG_kcal_mol": -7.980000019073486,
+      "fepplus_pred_err_kcal_mol": 0.09000000357627869
+    },
+    "CAT-4d": {
+      "sdf": "ligands/CAT-4d.sdf",
+      "exp_dG_kcal_mol": -9.11299991607666,
+      "fepplus_pred_dG_kcal_mol": -8.960000038146973,
+      "fepplus_pred_err_kcal_mol": 0.09000000357627869
+    },
+    "CAT-4i": {
+      "sdf": "ligands/CAT-4i.sdf",
+      "exp_dG_kcal_mol": -8.262999534606934,
+      "fepplus_pred_dG_kcal_mol": -8.630000114440918,
+      "fepplus_pred_err_kcal_mol": 0.09000000357627869
+    },
+    "CAT-4j": {
+      "sdf": "ligands/CAT-4j.sdf",
+      "exp_dG_kcal_mol": -9.02299976348877,
+      "fepplus_pred_dG_kcal_mol": -8.319999694824219,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-4k": {
+      "sdf": "ligands/CAT-4k.sdf",
+      "exp_dG_kcal_mol": -7.853000164031982,
+      "fepplus_pred_dG_kcal_mol": -7.849999904632568,
+      "fepplus_pred_err_kcal_mol": 0.09000000357627869
+    },
+    "CAT-4l": {
+      "sdf": "ligands/CAT-4l.sdf",
+      "exp_dG_kcal_mol": -9.343000411987305,
+      "fepplus_pred_dG_kcal_mol": -7.170000076293945,
+      "fepplus_pred_err_kcal_mol": 0.09000000357627869
+    },
+    "CAT-4m": {
+      "sdf": "ligands/CAT-4m.sdf",
+      "exp_dG_kcal_mol": -9.152999877929688,
+      "fepplus_pred_dG_kcal_mol": -9.050000190734863,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-4n": {
+      "sdf": "ligands/CAT-4n.sdf",
+      "exp_dG_kcal_mol": -9.093000411987305,
+      "fepplus_pred_dG_kcal_mol": -9.319999694824219,
+      "fepplus_pred_err_kcal_mol": 0.09000000357627869
+    },
+    "CAT-4o": {
+      "sdf": "ligands/CAT-4o.sdf",
+      "exp_dG_kcal_mol": -9.383000373840332,
+      "fepplus_pred_dG_kcal_mol": -8.6899995803833,
+      "fepplus_pred_err_kcal_mol": 0.07999999821186066
+    },
+    "CAT-4p": {
+      "sdf": "ligands/CAT-4p.sdf",
+      "exp_dG_kcal_mol": -10.083000183105469,
+      "fepplus_pred_dG_kcal_mol": -9.609999656677246,
+      "fepplus_pred_err_kcal_mol": 0.10000000149011612
+    }
+  }
+}
