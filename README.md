@@ -34,6 +34,10 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+## Access & Contact
+
+To request access or learn more, reach out at **contact@iktos.com**.
+
 ## Status
 
 This is an initial release of the Engine APIs and supporting materials; the repository will evolve as additional endpoints, examples, and benchmarking utilities are added.
