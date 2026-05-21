@@ -1,6 +1,6 @@
 # Iktos Engine
 
-This repository contains the first version of **Iktos Engine**: a set of focused, production-scale APIs for 3D virtual screening workflows spanning both **ligand-based** and **structure-based** regimes.
+This repository contains a reference client implementation for our **Iktos Engine**: a set of focused, production-scale APIs for 3D virtual screening workflows spanning both **ligand-based** and **structure-based** regimes.
 
 For more technical depth, see the **[Iktos 3D Engine technical report](Iktos_3D_Engine_Technical_Report.pdf)** in this repository.
 
@@ -41,3 +41,18 @@ To request access or learn more, reach out at **contact@iktos.com**.
 ## Status
 
 This is an initial release of the Engine APIs and supporting materials; the repository will evolve as additional endpoints, examples, and benchmarking utilities are added.
+
+## Disclaimer
+
+This source code project is provided as an example for educational and illustrative purposes only. While efforts have been made to ensure the accuracy and reliability of the code, no guarantee is made regarding its suitability for any specific purpose.
+
+By accessing and using this source code, you agree that:
+
+1. The code is provided "as is" without warranty of any kind, express or implied.
+2. You acknowledge that you are solely responsible for any consequences resulting from the use of this code.
+3. The author(s) and contributors of this code shall not be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) arising in any way out of the use of this code, even if advised of the possibility of such damage.
+4. Copyright © 2026 Iktos. All rights reserved.
+
+This disclaimer does not limit or exclude any liability for death or personal injury resulting from negligence, fraud, or any other liability that cannot be excluded or limited under applicable law.
+
+Use of this source code project implies acceptance of these terms.
